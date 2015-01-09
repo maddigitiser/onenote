@@ -1,0 +1,6 @@
+C:\dev\OneNote.Runner\OneNote.Runner\bin\Debug\OneNote.Runner.exe.config
+C:\dev\OneNote.Runner\OneNote.Runner\bin\Debug\OneNote.Runner.exe
+C:\dev\OneNote.Runner\OneNote.Runner\bin\Debug\OneNote.Runner.pdb
+C:\dev\OneNote.Runner\OneNote.Runner\obj\Debug\OneNote.Runner.csprojResolveAssemblyReference.cache
+C:\dev\OneNote.Runner\OneNote.Runner\obj\Debug\OneNote.Runner.exe
+C:\dev\OneNote.Runner\OneNote.Runner\obj\Debug\OneNote.Runner.pdb
